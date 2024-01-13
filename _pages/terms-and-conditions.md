@@ -5,7 +5,11 @@ include_in_header: true
 ---
 
 **Last updated**  
-January 12 2024
+January 13 2024
+
+**Introduction**
+
+The Pixel Buddy mobile app by Chunky Tofu Studios is distributed via the Apple App Store and the Google Play Store. Depending on where you downloaded the application the corresponding [App Store Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) or the [Google Play Terms of Service](https://play.google.com/intl/en_us/about/play-terms/index.html) applies. The terms on this page are written to supplement (not replace) these linked documents.
 
 **Terms & Conditions**
 
