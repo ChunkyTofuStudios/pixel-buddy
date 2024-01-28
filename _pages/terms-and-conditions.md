@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-January 13 2024
+January 28 2024
 
 **Introduction**
 
@@ -39,6 +39,18 @@ Along the same lines, Chunky Tofu Studios cannot always take responsibility for 
 With respect to Chunky Tofu Studios’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Chunky Tofu Studios accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
 
 At some point, we may wish to update the app. The app is currently available on Android – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Chunky Tofu Studios does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+
+**Fees and Payment**
+
+You may be required to purchase a subscription to access some of the artwork and other premium features of the app. The cost of the subscription and the sales tax will be charged to your App Store / Google Play account. Pixel Buddy offers a 7-day free trial. Unless you cancel your subscription at least 24 hours before the end of your trial or subscription period, you will be charged recurringly either weekly, monthly, or yearly, depending on the subscription plan you have chosen. 
+
+You agree to pay all charges or fees at the prices then in effect for your purchases, and you authorize us to charge your chosen payment provider for any such amounts upon making your purchase. If your purchase is subject to recurring weekly, monthly, or yearly charges, then you consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge, until you notify us of your cancellation.
+
+**Subscription Cancellation**
+
+You can manage or cancel your subscription anytime in App Store / Google Play settings. The cancellation will take effect at the end of your current subscription period. You will not receive a refund for the current subscription period if you do not cancel 24 hours before the period begins. Learn how to cancel for [Apple](https://support.apple.com/en-us/HT202039) or [Google](https://support.google.com/googleplay/answer/7018481).
+
+If you need help canceling your subscription, please e-mail us at chunkytofustudios@google.com.
 
 **Changes to This Terms and Conditions**
 
