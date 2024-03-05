@@ -4,8 +4,8 @@ title: Data Safety
 include_in_header: true
 ---
 
-**Last updated**  
-December 3 2023
+**Last updated**
+March 4 2024
 
 **Introduction**
 

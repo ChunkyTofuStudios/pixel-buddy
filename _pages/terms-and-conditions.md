@@ -4,8 +4,8 @@ title: Terms & Conditions
 include_in_header: true
 ---
 
-**Last updated**  
-January 28 2024
+**Last updated**
+March 4 2024
 
 **Introduction**
 
@@ -50,7 +50,7 @@ You agree to pay all charges or fees at the prices then in effect for your purch
 
 You can manage or cancel your subscription anytime in App Store / Google Play settings. The cancellation will take effect at the end of your current subscription period. You will not receive a refund for the current subscription period if you do not cancel 24 hours before the period begins. Learn how to cancel for [Apple](https://support.apple.com/en-us/HT202039) or [Google](https://support.google.com/googleplay/answer/7018481).
 
-If you need help canceling your subscription, please e-mail us at chunkytofustudios@google.com.
+If you need help canceling your subscription, please e-mail us at chunkytofustudios@gmail.com.
 
 **Changes to This Terms and Conditions**
 
@@ -58,4 +58,4 @@ We may update our Terms and Conditions from time to time. Thus, you are advised 
 
 **Contact Us**
 
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at chunkytofustudios@google.com.
+If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at chunkytofustudios@gmail.com.
