@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**
-July 2 2025
+July 9 2025
 
 **Privacy Policy**
 
@@ -68,6 +68,15 @@ This Service may contain links to other sites. If you click on a third-party lin
 **Children’s Privacy**
 
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+
+**Data Deletion Guide**
+
+If you wish to delete your personal data, please email us at **pixelbuddy@chunkytofustudios.com**.
+
+- If you contact us from the email address associated with your in-app account, simply state your request for data deletion.
+- If you contact us from a different email address, please include your user ID (found in the app’s settings) so we can verify your identity and process your request.
+
+We will process your request within 48 hours when possible and confirm once your data has been deleted.
 
 **Changes to This Privacy Policy**
 
